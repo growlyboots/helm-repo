@@ -1,2 +1,14 @@
 apiVersion: v1
 entries:
+  growly-helmin:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-02T18:17:44.378773-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 1dd1fb2ed9298f15ed5818741204fc6c62a49cf114691cedd9f7e71456bc536b
+    name: growly-helmin
+    type: application
+    urls:
+    - https://growlyboots.github.io/helm-repo/growly-helmin-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-02T18:17:44.378373-07:00"
